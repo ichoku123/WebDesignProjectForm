@@ -1,0 +1,71 @@
+body{
+    background-image:url(..//19154.jpg);
+    width: auto;
+    background-size: cover;
+}
+
+/* Wrapper style */
+.container{
+    background-color: white;
+}
+.navigation{
+    background-color: none !important;
+    border-bottom: 1px solid black;
+}
+.date{
+      border-bottom: 1px solid black 0.4;
+      
+}
+.navigation a{
+    color: black !important;
+    
+}
+ 
+.brand{
+    margin-top: 30px;
+}
+/* End Wrapper style */
+
+/* second-nav style */
+.second-Nav{
+    background-color: black !important;
+    
+
+}
+.second-Nav ul li{
+    font-size: 17px;
+    margin: 11px;
+}
+/* End second-nav style */
+
+.info-news{
+    background-color: red;
+    width: 82px;
+    margin-top: 20px;
+}
+.p p{
+   margin-top: 20px;  
+}
+/* Carousel for banner style */
+.carousel-cont{
+    margin-top: 40px;
+}
+
+/* End Carousel for banner style */
+
+ .handle h5{
+    margin-left: 16px;
+     color: white;
+    padding: 3px;
+}
+
+.cards{
+    margin-top: 40px;
+}
+.photography-flexone{
+    padding-top: 30px;
+}
+
+.card-deck-Photograph{
+   margin-top:29px;
+}
